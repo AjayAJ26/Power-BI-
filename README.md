@@ -1,2 +1,2 @@
 # Power-BI-
-Projects and updates on power BI
+Hi there! lets's start learning and upgrading in Power BI
