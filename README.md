@@ -46,7 +46,7 @@ Developed a **multi-page Power BI dashboard suite** supported by a unified data 
 
 ## 📊 Dashboard  
 
-🚀 [**Live Dashboard — BI 360 Version 2**](https://app.fabric.microsoft.com/groups/me/reports/41dbc5ee-8479-4f53-9bf1-c73b147dd429/55adcb82770ab0ce7117?experience=fabric-developer)
+🚀 [**Live Dashboard — BI 360**](https://app.fabric.microsoft.com/groups/me/reports/41dbc5ee-8479-4f53-9bf1-c73b147dd429/55adcb82770ab0ce7117?experience=fabric-developer)
 
 ---
 
